@@ -1,0 +1,77 @@
+```
+# ALEXANDER MITCHELL
+
+[+1-555-123-4567 | alex.mitchell@email.com | linkedin.com/in/alexmitchell | EU Work Authorization](mailto:alex.mitchell@email.com)
+
+Systems Engineer with over 6 years of experience in aerospace systems and software development. Demonstrated success in leading complex technical projects, implementing automation solutions, and ensuring regulatory compliance. Expertise in flight systems, performance analysis, and cross-functional team leadership.
+
+### SKILLS
+
+**Technical Expertise:**
+- Systems Architecture
+- Flight Dynamics
+- Performance Analysis
+- Safety Systems
+- Requirements Management
+
+**Software Development:**
+- Python, C++, MATLAB
+- Git, Docker, CI/CD
+- REST APIs, Test Automation
+- SQL, Tableau, Power BI
+- Machine Learning
+
+**Systems/Domain Knowledge:**
+- Agile/Scrum
+- MBSE, V&V
+- Jira, Enterprise Architecture
+- EASA Standards
+
+**Project Leadership:**
+- Team Leadership
+- Strategic Planning
+- Risk Management
+- Cross-functional Team Management
+
+**Tools:**
+- CAD/CAM, FEA, CFD
+- PLM Systems
+- Digital Twin Technologies
+
+### EXPERIENCE
+
+**Senior Systems Engineer** - AeroTech Solutions, Munich, Germany                                                                     Jan 2021 – Present
+- Spearheaded development of next-generation flight control software, achieving 40% efficiency improvement.
+- Led integration of AI-driven predictive maintenance system, reducing unplanned downtime by 65%.
+- Managed cross-functional team of 12 engineers, delivering 3 major system updates ahead of schedule.
+- Implemented automated testing framework, increasing test coverage by 85%.
+
+**Systems Integration Engineer** - Global Aviation Systems, Hamburg, Germany                                                         Mar 2019 – Dec 2020
+- Developed and implemented system architecture for new aircraft monitoring platform, serving 50+ airline customers.
+- Led technical requirements gathering and validation for safety-critical systems, ensuring compliance with EASA standards.
+- Optimized system integration processes, reducing deployment time by 45%.
+
+**Systems Engineer (Graduate Position)** - Advanced Flight Systems, Berlin, Germany                                                Jun 2018 – Feb 2019
+- Designed and implemented automated testing protocols for flight control systems, improving efficiency by 30%.
+- Developed simulation models for system performance analysis, contributing to certification requirements.
+
+### EDUCATION
+
+Technical University of Munich – M.Sc. in Aerospace Engineering                                                                   Sep 2016 - May 2018
+University of Stuttgart – B.Eng. in Mechanical Engineering                                                                         Sep 2012 - Jun 2016
+
+### ADDITIONAL SECTIONS
+
+**Professional Development & Languages:**
+- Certifications: Advanced Systems Engineering (TÜV), Machine Learning Specialization (Stanford Online)
+- Languages: English (Native), German (C1), Spanish (B1)
+
+**Significant Projects:**
+- Creator of OpenFlightSim: Open-source flight simulation platform with 1000+ GitHub stars
+- Technical Lead for University Robotics Team: Led team to 2nd place in European Robotics Challenge 2023
+
+**Publications:**
+- ["Advanced Flight Control Systems: A Modern Approach," IEEE Aerospace Conference, 2023](https://example.com/paper1)
+- ["Machine Learning in Aircraft Systems: Applications and Challenges," International Journal of Aerospace Engineering, 2022](https://example.com/paper2)
+
+```
