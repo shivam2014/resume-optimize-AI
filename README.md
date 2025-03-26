@@ -16,7 +16,7 @@ An AI-powered resume optimization tool that leverages multiple AI providers to e
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/shivam2014/resume-optimize-AI.git
 cd resume-optimize-AI
 ```
 
